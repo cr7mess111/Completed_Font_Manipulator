@@ -1,0 +1,47 @@
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px crimson;
+}
+
+body
+{
+    background-color: rgb(0, 0, 0);
+}
+
+.note
+{
+    font-size: 15;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.Copy_Right_Footer
+{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+canvas
+{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px crimson;
+    
+}
+
+
+#footer
+{
+    float: bottom;
+}
+
